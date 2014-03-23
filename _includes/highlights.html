@@ -1,0 +1,15 @@
+
+<!-- Highlights -->
+<div class="row">
+    {% for product in site.data.products limit:3 %}
+        <div class="col-lg-4 text-center">
+          <img alt="140x140" data-src="holder.js/140x140" class="img-circle" style="width: 140px; height: 140px;" src="/img/{{product.img}}">
+          <h2>{{ product.name }}</h2>
+           <p>{{ product.preamble }}</p>
+           <p>{{ product.price }}</p>
+          <p><a class="btn btn-primary" href="{{ product.img }}" role="button">View details &raquo;</a></p>
+        </div>
+
+    {% endfor %}
+</div>
+

@@ -1,0 +1,55 @@
+
+<div class="masthead">
+  <ul class="nav nav-justified">
+
+    {% if page.menu == "home" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+        <a href="/">Home</a>
+    </li>
+    
+    {% if page.menu == "handbags" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+        <a href="/handbags-and-purses/">Handbags &amp; Purses</a>
+    </li>
+    
+    {% if page.menu == "devices" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+        <a href="/device-covers/">Device Covers</a>
+    </li>
+    
+    {% if page.menu == "accessories" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+        <a href="/gifts-and-accessories/">Gifts &amp; Accessories</a>
+    </li>
+ 
+    {% if page.menu == "household" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+        <a href="/household/">Household</a>
+    </li>
+    
+    {% if page.menu == "contact" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+        <a href="/contact/">Contact</a>
+    </li>            
+  </ul>
+</div>
+
+
