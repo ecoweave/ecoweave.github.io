@@ -1,6 +1,7 @@
 - name: Medium Handbag
   price: £30
   img: medium-handbag.jpg
+  category: [handbag, highlight]
   preamble: |
     This medium size hand bag has a secure zip closure and is perfect for everyday use. Made from approximately 115 crisp packets it takes four to five days to create. Large enough for all of your everyday essentials and stylish enough to take anywhere. A high quality zip ensures that all of your belongings are kept safe and out of sight.
   description: |
@@ -9,6 +10,7 @@
 - name: Large Clutch Bag
   price: £25
   img: large-clutch-bag.jpg
+  category: [handbag, highlight]
   preamble : | 
     This bag is hand crafted from over 100 crisp packets and finished with a quality magnetic clasp. Seen here in the popular barcode style but, as with all of the products, available in any style you'd like.
   description: 
@@ -16,7 +18,7 @@
 - name: Small Clutch Bag
   price: £20
   img: small-clutch-bag.jpg
+  category: [handbag, highlight]
   preamble: | 
     This small clutch is big enough to carry a purse, phone and a couple of other essentials while still being small enough to not get in your way. If you would like a particular colour or style please get in touch and I'll be happy to discuss options.  
   description:
-
