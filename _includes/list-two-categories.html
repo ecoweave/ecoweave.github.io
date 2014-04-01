@@ -1,0 +1,11 @@
+
+    {% for product in site.data.products %}
+    {% if product.category contains {{include.category1}} or product.category contains {{include.category2}} %}
+    {% cycle 'add rows': '<div class="row">', nil, nil %}
+
+        {% include product-highlight.html %}
+
+    {% cycle 'close rows': nil, nil, '</div>' %}
+    {% endif %}
+    {% endfor %}
+    {% cycle 'close rows': nil, '</div>', '</div>' %}
