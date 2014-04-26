@@ -1,5 +1,8 @@
-- name: Medium Handbag
+- id: medium-handbag
+  name: Medium Handbag
   price: £30
+  size: Bag 28.5cm x 19.5cm x 8cm, Handles 39cm
+  closure: Zip
   img: medium-handbag-multi.jpg
   category: [handbags, highlight]
   preamble: |
@@ -7,35 +10,178 @@
   description: |
     Shown here in the traditional multicoloured style which offers the maximum variety for impromptu 'name the packet' sessions. If you would like a particular colour or theme just let me know, I'll be happy to hear what you have in mind. 
 
-- name: Large Clutch Bag
+- id: large-clutch-bag
+  name: Large Clutch Bag
   price: £25
+  size: 29.5cm x 16cm x 8cm
+  closure: Magnetic
   img: large-clutch-barcode.jpg
   category: [handbags]
   preamble : | 
     This bag is hand crafted from over 100 crisp packets and finished with a quality magnetic clasp. Seen here in the popular barcode style but, as with all of the products, available in any style you'd like.
   description: 
 
-- name: Small Clutch Bag
+- id: small-clutch-bag
+  name: Small Clutch Bag
   price: £20
+  size: 24cm x 13.5cm x 4.5cm
+  closure: Zip
   img: small-clutch-silver-black-front.jpg
   category: [handbags, highlight]
   preamble: | 
     This small clutch is big enough to carry a purse, phone and a couple of other essentials while still being small enough to not get in your way. If you would like a particular colour or style please get in touch and I'll be happy to discuss options.  
   description:
 
-- name: Bookmark
+- id: bookmark
+  name: Bookmark
   price: £3
+  size: 16cm x 5cm
+  closure: 
   img: bookmark-multi.jpg
   category: [gifts]
   preamble: | 
     E-book readers are great, as are our kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old dead tree format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.   
   description:
 
-- name: Pencil Case
+- id: pencil-case
+  name: Pencil Case
   price: £8
+  size: 24cm x 10.5cm x 4.5cm
+  closure: Zip
   img: pencil-case-blue.jpg
   category: [gifts, highlight]
   preamble: | 
      These pencil cases are quickly becoming the talk of classrooms all over. Made with quality zip closures they will withstand many years of use.
   description:
-  
+
+- id: small-purse
+  name: Small Purse
+  price: £7
+  size: 12cm x 9cm x 2.5cm
+  closure: Zip
+  img: purse-multi.jpg
+  category: [purses]
+  preamble: | 
+    These fun purses make great gifts. Made from over 16 packets, the standard size is large enough for coins, notes, and a couple of cards but small enough to fit in a pocket. 
+  description: |
+        If you would like larger or smaller size then I am happy to make the necessary adjustments. The purses are totally secure so you need not worry about your stuff dropping out.
+
+- id: ipad-cover
+  name: iPad Cover
+  price: £20
+  size: 19.5cm x 25cm x 3cm (for iPad 2 to 4th generation)
+  closure: 
+  img: 
+  category: [devices]
+  preamble: | 
+        Made from over 80 crisp packets to precisely fit your model of iPad. As this cover is made to measure there is no need for a zip so you don't need to worry about any hard edges scratching your lovely screen.
+  description: |
+        Please specify the model of iPad or tablet that you have so that I can make the cover fit perfectly. Don't worry if you aren't sure, get in touch and we can work it out.
+
+- id: kindle-cover
+  name: Kindle Cover
+  price: Kindle 4, Paperwhite & Touch £12, Kindle Keyboard & Fire HD £14
+  size: 13cm x 17.5cm x 2.5cm
+  closure: 
+  img: kindle-cover-multi.jpg
+  category: [devices]
+  preamble: |
+        Made to perfectly fit your kindle from between 40 and 50 crisp packets, depending on model. As this cover is made to measure there is no need for a zip so there is no worry of scratching your beloved Kindle!
+  description: |
+        Please indicate which model of Kindle you have when ordering so that we can supply the correct size. The model shown here is a classic multicolour design. As with all of my products if you would like a particular colour or theme just let me know and I'll be glad to discuss options.
+        If your device is not listed below I am, in most cases, still able to make a cover to fit based on the dimensions of the device.
+
+- id: phone-cover
+  name: Phone Cover
+  price: £10
+  size: various
+  closure: 
+  img: 
+  category: [devices]
+  preamble: |
+        Made from over 20 crisp packets to precisely fit your phone. This cover is made to measure so there is no need for a separate closure, your device will be held securely in the protective cover.
+  description:  |
+        Please specify the make and model of your phone so that I can make the cover fit perfectly. Don't worry if you aren't sure, get in touch and we can work it out.
+
+- id: glasses-case
+  name: Glasses Case
+  price: £5
+  size: 16.5cm x 7cm x 2.5cm
+  closure: 
+  img: glasses-case-multi.jpg
+  category: [accessories]
+  preamble: |
+        A very popular item, these glasses cases protect your glasses from day to day knocks and scrapes and bring a bit of pizazz to an otherwise mundane object. 
+  description: |
+        The standard size has been tested on a wide range of glasses to provide a sung fit. If your glasses are larger or more flamboyant than most then include the size when you get in touch. The cases can be made in any design and colour and all come with a free cleaning cloth.
+
+- id: lighter-cover
+  name: Lighter Cover
+  price: £3
+  size: 8cm x 3.5cm x 2.5cm
+  closure: 
+  img: 
+  category: [gifts]
+  preamble: | 
+        This item was originally created following a special request from one of my customers. The cover adds a touch of originality to cheap disposable lighters. 
+  description: |
+        As with all of my products I can make this in any style you like. If you have any ideas you would like to discuss please get in touch.
+
+- id: keyring
+  name: Keyring
+  price: £4
+  size: 3.5cm x 3.5cm x 3.5cm, keychain & ring 6cm
+  closure: 
+  img: 
+  category: [gifts]
+  preamble: | 
+        Made using quality hardware and filled with polystyrene to maintain their shape these keyrings are a great way to keep track of your keys. 
+  description: |
+        Made from 5 individual crisp packets these are great conversation pieces. Their light weight and bold design makes them remarkably effective keyrings.
+
+- id: champagne-bottle-bag
+  name: Champagne Bottle Bag
+  price: £9
+  size: 26cm x 10.5cm
+  closure: 
+  img: champagne-holder-silver-purple.jpg
+  category: [gifts]
+  preamble: | 
+        A larger version of the popular wine bottle holder this bag adds an extra sparkle to your bubbly. Seen here in silver with purple & yellow accents but available in any design you would like.
+  description:  
+
+- id: wine-bottle-bag
+  name: Wine Bottle Bag
+  price: £7
+  size: 26cm x 9cm
+  closure: 
+  img: 
+  category: [gifts]
+  preamble: | 
+        These bottle bags add an extra special touch to your gifts and are sure to last longer than the items they are designed to carry!
+  description: |
+        An excellent conversation piece and a great way to safely transport or store your bottles. Made from over 50 packets and finished with a decorative handle these bags really look the part.  
+
+- id: placemats-coasters
+  name: Placemats & Coasters
+  price: 4 placemats £15, 4 coasters £8
+  size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
+  closure: 
+  img: 
+  category: [household]
+  preamble: | 
+        These placemats and coasters provide a quality cushioned feel and offer excellent protection against the heat of a plate or cup. Spills can be easily wiped clean with a damp cloth.
+  description: |
+         Each placemat is made from over 80 crisp packets and is large enough for a large dinner plate. The coasters are made from 6 packets and are suitable for most cups or large mugs. As with all of my products I am happy to adjust colours and sizes to suite your needs.
+
+- id: picture-frame 
+  name: Picture Frame
+  price: £7
+  size: 18.5cm x 13.5cm
+  closure: 
+  img: picture-frame-multi.jpg
+  category: [household]
+  preamble: |
+        Liven up your home with this picture frame with a twist. Behind the packet decoration sits a sturdy wooden picture frame.
+  description: |
+         This item is available in all styles and colours. The standard frame takes a 6x4 inch photograph but if you would like a different size then please ask.
