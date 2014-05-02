@@ -2,7 +2,7 @@
     {% for product in site.data.products %}
     {% cycle 'add rows': '<div class="row">', nil, nil %}
 
-        {% include product-highlight.html %}
+        {% include product.html %}
 
     {% cycle 'close rows': nil, nil, '</div>' %}
     {% endfor %}
