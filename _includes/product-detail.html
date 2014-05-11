@@ -1,6 +1,8 @@
 
-    {% if forloop.first == false %}
-    <hr class="featurette-divider" id="{{product.id}}">
+    {% if forloop.first %}
+    <span id="{{product.id}}" />
+    {% else %}
+    <hr class="featurette-divider" id="{{product.id}}" />
     {% endif %}
 
     {% capture rowcycle %}{% cycle 'odd', 'even' %}{% endcapture %}
