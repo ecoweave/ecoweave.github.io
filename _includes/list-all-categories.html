@@ -1,9 +1,4 @@
 
     {% for product in site.data.products %}
-    {% cycle 'add rows': '<div class="row">', nil, nil %}
-
         {% include product-detail.html %}
-
-    {% cycle 'close rows': nil, nil, '</div>' %}
     {% endfor %}
-    {% cycle 'close rows': nil, '</div>', '</div>' %}
