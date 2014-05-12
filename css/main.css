@@ -9,6 +9,15 @@ body {
   border-top: 1px solid #eee;
 }
 
+.dl-horizontal dt {
+  text-align: left;
+  width: auto;
+}
+
+.dl-horizontal dd {
+  margin-left: 70px;
+}
+
 /* Main message*/
 .jumbotron.main {
   text-align: center;
