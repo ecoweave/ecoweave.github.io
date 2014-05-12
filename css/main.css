@@ -18,7 +18,10 @@ body {
   margin-left: 70px;
 }
 
-/* Main message*/
+
+.jumbotron {
+  padding-top: 20px;
+}
 .jumbotron.main {
   text-align: center;
   background-color: transparent;
