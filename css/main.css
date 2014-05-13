@@ -18,9 +18,13 @@ body {
   margin-left: 70px;
 }
 
+.row {
+  padding-bottom: 40px;
+}
 
 .jumbotron {
   padding-top: 20px;
+  padding-bottom: 20px;
 }
 .jumbotron.main {
   text-align: center;
