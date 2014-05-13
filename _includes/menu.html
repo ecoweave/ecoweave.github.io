@@ -41,7 +41,15 @@
     {% endif %}
         <a href="/household/">Household</a>
     </li>
-    
+
+    {% if page.menu == "all-products" %}
+    <li class="active">
+    {% else %}
+    <li>
+    {% endif %}
+        <a href="/all-products/">All Products</a>
+    </li>
+
     {% if page.menu == "contact" %}
     <li class="active">
     {% else %}
