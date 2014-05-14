@@ -5,6 +5,7 @@
   closure: Zip
   img: medium-handbag-multi.jpg
   category: [handbags, highlight]
+  strapline: Stylish and practical
   preamble: |
     This medium size hand bag has a secure zip closure and is perfect for everyday use. Made from approximately 115 crisp packets it takes four to five days to create. Large enough for all of your everyday essentials and stylish enough to take anywhere. A high quality zip ensures that all of your belongings are kept safe and out of sight.
   description: |
@@ -17,6 +18,7 @@
   closure: Magnetic
   img: large-clutch-barcode.jpg
   category: [handbags]
+  strapline:
   preamble : | 
     This bag is hand crafted from over 100 crisp packets and finished with a quality magnetic clasp. Seen here in the popular barcode style but, as with all of the products, available in any style you'd like.
   description: 
@@ -28,6 +30,7 @@
   closure: Zip
   img: small-clutch-silver-black-front.jpg
   category: [handbags, highlight]
+  strapline:
   preamble: | 
     This small clutch is big enough to carry a purse, phone and a couple of other essentials while still being small enough to not get in your way. If you would like a particular colour or style please get in touch and I'll be happy to discuss options.  
   description:
@@ -39,6 +42,7 @@
   closure: 
   img: bookmark-multi.jpg
   category: [gifts]
+  strapline:
   preamble: | 
     E-book readers are great, as are our kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old dead tree format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.   
   description:
@@ -50,6 +54,7 @@
   closure: Zip
   img: pencil-case-blue.jpg
   category: [gifts, highlight]
+  strapline:
   preamble: | 
      These pencil cases are quickly becoming the talk of classrooms all over. Made with quality zip closures they will withstand many years of use.
   description:
@@ -61,6 +66,7 @@
   closure: Zip
   img: purse-multi.jpg
   category: [purses]
+  strapline:
   preamble: | 
     These fun purses make great gifts. Made from over 16 packets, the standard size is large enough for coins, notes, and a couple of cards but small enough to fit in a pocket. 
   description: |
@@ -73,6 +79,7 @@
   closure: 
   img: 
   category: [devices]
+  strapline:
   preamble: | 
         Made from over 80 crisp packets to precisely fit your model of iPad. As this cover is made to measure there is no need for a zip so you don't need to worry about any hard edges scratching your lovely screen.
   description: |
@@ -85,6 +92,7 @@
   closure: 
   img: kindle-cover-multi.jpg
   category: [devices]
+  strapline:
   preamble: |
         Made to perfectly fit your kindle from between 40 and 50 crisp packets, depending on model. As this cover is made to measure there is no need for a zip so there is no worry of scratching your beloved Kindle!
   description: |
@@ -98,6 +106,7 @@
   closure: 
   img: 
   category: [devices]
+  strapline:
   preamble: |
         Made from over 20 crisp packets to precisely fit your phone. This cover is made to measure so there is no need for a separate closure, your device will be held securely in the protective cover.
   description:  |
@@ -110,6 +119,7 @@
   closure: 
   img: glasses-case-multi.jpg
   category: [accessories]
+  strapline:
   preamble: |
         A very popular item, these glasses cases protect your glasses from day to day knocks and scrapes and bring a bit of pizazz to an otherwise mundane object. 
   description: |
@@ -122,6 +132,7 @@
   closure: 
   img: 
   category: [gifts]
+  strapline:
   preamble: | 
         This item was originally created following a special request from one of my customers. The cover adds a touch of originality to cheap disposable lighters. 
   description: |
@@ -134,6 +145,7 @@
   closure: 
   img: 
   category: [gifts]
+  strapline:
   preamble: | 
         Made using quality hardware and filled with polystyrene to maintain their shape these keyrings are a great way to keep track of your keys. 
   description: |
@@ -157,6 +169,7 @@
   closure: 
   img: 
   category: [gifts]
+  strapline:
   preamble: | 
         These bottle bags add an extra special touch to your gifts and are sure to last longer than the items they are designed to carry!
   description: |
@@ -169,6 +182,7 @@
   closure: 
   img: 
   category: [household]
+  strapline:
   preamble: | 
         These placemats and coasters provide a quality cushioned feel and offer excellent protection against the heat of a plate or cup. Spills can be easily wiped clean with a damp cloth.
   description: |
@@ -181,6 +195,7 @@
   closure: 
   img: picture-frame-multi.jpg
   category: [household]
+  strapline:
   preamble: |
         Liven up your home with this picture frame with a twist. Behind the packet decoration sits a sturdy wooden picture frame.
   description: |
