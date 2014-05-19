@@ -30,7 +30,7 @@
   closure: Zip
   img: small-clutch-silver-black-front.jpg
   category: [handbags, highlight]
-  strapline:
+  strapline: Perfectly formed
   preamble: | 
     This small clutch is big enough to carry a purse, phone and a couple of other essentials while still being small enough to not get in your way. If you would like a particular colour or style please get in touch and I'll be happy to discuss options.  
   description:
@@ -42,7 +42,7 @@
   closure: 
   img: bookmark-multi.jpg
   category: [gifts]
-  strapline:
+  strapline: For the book worms
   preamble: | 
     E-book readers are great, as are our kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old dead tree format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.   
   description:
@@ -54,7 +54,7 @@
   closure: Zip
   img: pencil-case-blue.jpg
   category: [gifts, highlight]
-  strapline:
+  strapline: A great gift
   preamble: | 
      These pencil cases are quickly becoming the talk of classrooms all over. Made with quality zip closures they will withstand many years of use.
   description:
@@ -66,7 +66,7 @@
   closure: Zip
   img: purse-multi.jpg
   category: [purses]
-  strapline:
+  strapline: Sassy &amp; secure
   preamble: | 
     These fun purses make great gifts. Made from over 16 packets, the standard size is large enough for coins, notes, and a couple of cards but small enough to fit in a pocket. 
   description: |
@@ -79,7 +79,7 @@
   closure: 
   img: 
   category: [devices]
-  strapline:
+  strapline: Because you'll drop it
   preamble: | 
         Made from over 80 crisp packets to precisely fit your model of iPad. As this cover is made to measure there is no need for a zip so you don't need to worry about any hard edges scratching your lovely screen.
   description: |
@@ -92,7 +92,7 @@
   closure: 
   img: kindle-cover-multi.jpg
   category: [devices]
-  strapline:
+  strapline: All models
   preamble: |
         Made to perfectly fit your kindle from between 40 and 50 crisp packets, depending on model. As this cover is made to measure there is no need for a zip so there is no worry of scratching your beloved Kindle!
   description: |
