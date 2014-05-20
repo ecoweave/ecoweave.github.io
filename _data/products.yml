@@ -44,7 +44,7 @@
   category: [gifts]
   strapline: For the book worms
   preamble: | 
-    E-book readers are great, as are our kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old dead tree format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.   
+    E-book readers are great, as are our kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old paper format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.
   description:
 
 - id: pencil-case
@@ -54,7 +54,7 @@
   closure: Zip
   img: pencil-case-blue.jpg
   category: [gifts, highlight]
-  strapline: A great gift
+  strapline: A gift for the gifted
   preamble: | 
      These pencil cases are quickly becoming the talk of classrooms all over. Made with quality zip closures they will withstand many years of use.
   description:
@@ -66,7 +66,7 @@
   closure: Zip
   img: purse-multi.jpg
   category: [purses]
-  strapline: Sassy &amp; secure
+  strapline: Fill it with your money
   preamble: | 
     These fun purses make great gifts. Made from over 16 packets, the standard size is large enough for coins, notes, and a couple of cards but small enough to fit in a pocket. 
   description: |
@@ -92,7 +92,7 @@
   closure: 
   img: kindle-cover-multi.jpg
   category: [devices]
-  strapline: All models
+  strapline: All models covered
   preamble: |
         Made to perfectly fit your kindle from between 40 and 50 crisp packets, depending on model. As this cover is made to measure there is no need for a zip so there is no worry of scratching your beloved Kindle!
   description: |
@@ -101,12 +101,12 @@
 
 - id: phone-cover
   name: Phone Cover
-  price: £10
+  price: £15
   size: various
   closure: 
   img: 
   category: [devices]
-  strapline:
+  strapline: You love your phone
   preamble: |
         Made from over 20 crisp packets to precisely fit your phone. This cover is made to measure so there is no need for a separate closure, your device will be held securely in the protective cover.
   description:  |
@@ -119,7 +119,7 @@
   closure: 
   img: glasses-case-multi.jpg
   category: [accessories]
-  strapline:
+  strapline: Protect your specs
   preamble: |
         A very popular item, these glasses cases protect your glasses from day to day knocks and scrapes and bring a bit of pizazz to an otherwise mundane object. 
   description: |
@@ -132,7 +132,7 @@
   closure: 
   img: 
   category: [gifts]
-  strapline:
+  strapline: Because we can
   preamble: | 
         This item was originally created following a special request from one of my customers. The cover adds a touch of originality to cheap disposable lighters. 
   description: |
@@ -145,7 +145,7 @@
   closure: 
   img: 
   category: [gifts]
-  strapline:
+  strapline:  Makes keys hard to lose
   preamble: | 
         Made using quality hardware and filled with polystyrene to maintain their shape these keyrings are a great way to keep track of your keys. 
   description: |
@@ -158,8 +158,9 @@
   closure: 
   img: champagne-holder-silver-purple.jpg
   category: [gifts]
+  strapline: Big bag for bubbly
   preamble: | 
-        A larger version of the popular wine bottle holder this bag adds an extra sparkle to your bubbly. Seen here in silver with purple & yellow accents but available in any design you would like.
+        A larger version of the popular wine bottle holder this bag adds an extra sparkle to your bubbly. Seen here in silver with purple & yellow accents but available in any design you like.
   description:  
 
 - id: wine-bottle-bag
@@ -169,7 +170,7 @@
   closure: 
   img: 
   category: [gifts]
-  strapline:
+  strapline: A gift of a gift bag
   preamble: | 
         These bottle bags add an extra special touch to your gifts and are sure to last longer than the items they are designed to carry!
   description: |
@@ -182,7 +183,7 @@
   closure: 
   img: 
   category: [household]
-  strapline:
+  strapline: Striking and practical
   preamble: | 
         These placemats and coasters provide a quality cushioned feel and offer excellent protection against the heat of a plate or cup. Spills can be easily wiped clean with a damp cloth.
   description: |
@@ -195,7 +196,7 @@
   closure: 
   img: picture-frame-multi.jpg
   category: [household]
-  strapline:
+  strapline: Pretty as a picture
   preamble: |
         Liven up your home with this picture frame with a twist. Behind the packet decoration sits a sturdy wooden picture frame.
   description: |
