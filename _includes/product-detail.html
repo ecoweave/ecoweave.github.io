@@ -50,25 +50,8 @@
         <p>{{product.description}}</p>
         {% endunless %}
 
-        <dl class="dl-horizontal">
-          <dt>Price</dt>
-          <dd>{{product.price}}</dd>
+        {% include paypal.html %}
 
-          {% unless product.size == nil %}
-          <dt>Size</dt>
-          <dd>{{product.size}}</dd>
-          {% endunless %}
-
-          {% unless product.closure == nil %}
-          <dt>Closure</dt>
-          <dd>{{product.closure}}</dd>
-          {% endunless %}
-        </dl>
-        <p>
-          <a class="btn btn-primary"
-             href="/img/products/thumb/{{product.img}}"
-             role="button">Add to basket &raquo;</a>
-        </p>
       </div>
 
       {% if rowcycle == 'odd' %}

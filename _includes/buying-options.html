@@ -1,0 +1,64 @@
+
+<dl class="dl-horizontal">
+<!--
+  <dt>Price</dt>
+  <dd>{{product.price}}</dd>
+-->
+
+  {% unless product.size == nil %}
+  <dt>Size</dt>
+  <dd>{{product.size}}</dd>
+  {% endunless %}
+
+  {% unless product.closure == nil %}
+  <dt>Closure</dt>
+  <dd>{{product.closure}}</dd>
+  {% endunless %}
+
+  <dt>
+    <input type="hidden" name="on0" value="Type">Price
+  </dt>
+  <dd>
+    <select name="os0" id="{{product.id}}-type">
+    {% for variations in product.options %}
+      {% for variation in variations %}
+        <option value="{{ variation[0] }}">{{ variation[0] }} {{ variation[1] }}</option>
+      {% endfor %}
+    {% endfor %}
+    </select>
+  </dd>
+
+  <dt id="{{product.id}}-colours-dt">
+    <input type="hidden" name="on1" value="Colour">Colour
+  </dt>
+  <dd id="{{product.id}}-colours-dd">
+    <select name="os1" id="{{product.id}}-colours-select">
+        <option value="Multicoloured">Multicoloured </option>
+        <option value="Red">Red </option>
+        <option value="Blue">Blue </option>
+        <option value="Green">Green </option>
+        <option value="Yellow">Yellow </option>
+        <option value="Pink">Pink </option>
+        <option value="Purple">Purple </option>
+        <option value="Silver">Silver </option>
+        <option value="Multicoloured Pastel">Multicoloured Pastel </option>
+        <option value="Not Applicable" style="display:none;">Not Applicable </option>
+    </select>
+  </dd>
+</dl>
+
+<script type="text/javascript">
+$(document).ready(function ($) {
+  $("#{{product.id}}-type").change(function(){
+    if(this.value == "Barcode") {
+      $("#{{product.id}}-colours-dt").hide();
+      $("#{{product.id}}-colours-dd").hide();
+      $("#{{product.id}}-colours-select").val("Not Applicable");
+    } else {
+      $("#{{product.id}}-colours-dt").show();
+      $("#{{product.id}}-colours-dd").show();
+      $("#{{product.id}}-colours-select").val("Multicoloured");
+    }
+  })
+});
+</script>

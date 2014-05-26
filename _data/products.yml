@@ -1,4 +1,8 @@
 - id: medium-handbag
+  paypal-id: SVDCH84KSYH2Y
+  options:
+   - Standard: £30
+   - Barcode: £60
   name: Medium Handbag
   price: £30
   size: Bag 28.5cm x 19.5cm x 8cm, Handles 39cm
@@ -12,6 +16,10 @@
     Shown here in the traditional multicoloured style which offers the maximum variety for impromptu 'name the packet' sessions. If you would like a particular colour or theme just let me know, I'll be happy to hear what you have in mind. 
 
 - id: large-clutch-bag
+  paypal-id: WSQVCMAT3656S
+  options:
+   - Standard: £25
+   - Barcode: £50
   name: Large Clutch Bag
   price: £25
   size: 29.5cm x 16cm x 8cm
@@ -24,6 +32,10 @@
   description: 
 
 - id: small-clutch-bag
+  paypal-id: RFEFJH5QFDZA2
+  options:
+   - Standard: £20
+   - Barcode: £40
   name: Small Clutch Bag
   price: £20
   size: 24cm x 13.5cm x 4.5cm
@@ -36,6 +48,10 @@
   description:
 
 - id: bookmark
+  paypal-id: 6FLYMW8D575WC
+  options:
+   - Standard: £3
+   - Barcode: £6
   name: Bookmark
   price: £3
   size: 16cm x 5cm
@@ -48,6 +64,10 @@
   description:
 
 - id: pencil-case
+  paypal-id: BGMMH2RN2VZ2J
+  options:
+   - Standard: £8
+   - Barcode: £16
   name: Pencil Case
   price: £8
   size: 24cm x 10.5cm x 4.5cm
@@ -60,6 +80,10 @@
   description:
 
 - id: small-purse
+  paypal-id: Q338LW728BFGA
+  options:
+   - Standard: £7
+   - Barcode: £14
   name: Small Purse
   price: £7
   size: 12cm x 9cm x 2.5cm
@@ -73,6 +97,10 @@
         If you would like larger or smaller size then I am happy to make the necessary adjustments. The purses are totally secure so you need not worry about your stuff dropping out.
 
 - id: ipad-cover
+  paypal-id: NHHNEUNYQXC34
+  options:
+   - iPad (2nd, 3rd &amp; 4th Generation): £20
+   - iPad Mini: £15
   name: iPad Cover
   price: £20
   size: 19.5cm x 25cm x 3cm (for iPad 2 to 4th generation)
@@ -86,6 +114,11 @@
         Please specify the model of iPad or tablet that you have so that I can make the cover fit perfectly. Don't worry if you aren't sure, get in touch and we can work it out.
 
 - id: kindle-cover
+  paypal-id: 3K288Q4HCD2G2
+  options:
+   - Kindle 3, 4, 5, Paperwhite &amp; Touch: £12
+   - Kindle Keyboard: £14
+   - Fire HD: £14
   name: Kindle Cover
   price: Kindle 4, Paperwhite & Touch £12, Kindle Keyboard & Fire HD £14
   size: 13cm x 17.5cm x 2.5cm
@@ -100,7 +133,11 @@
         If your device is not listed below I am, in most cases, still able to make a cover to fit based on the dimensions of the device.
 
 - id: phone-cover
-  name: Phone Cover
+  paypal-id: KYG6XMZUM7FQS
+  options:
+   - iPhone 4 or 4s: £15
+   - iPhone 5s or 5c: £15
+  name: iPhone Cover
   price: £15
   size: various
   closure: 
@@ -113,6 +150,10 @@
         Please specify the make and model of your phone so that I can make the cover fit perfectly. Don't worry if you aren't sure, get in touch and we can work it out.
 
 - id: glasses-case
+  paypal-id: HRLN4WE5SFQUC
+  options:
+   - Standard: £5
+   - Barcode: £10
   name: Glasses Case
   price: £5
   size: 16.5cm x 7cm x 2.5cm
@@ -126,6 +167,10 @@
         The standard size has been tested on a wide range of glasses to provide a sung fit. If your glasses are larger or more flamboyant than most then include the size when you get in touch. The cases can be made in any design and colour and all come with a free cleaning cloth.
 
 - id: lighter-cover
+  paypal-id: Q5VTBSU762WSS
+  options:
+   - Standard: £3
+   - Barcode: £6
   name: Lighter Cover
   price: £3
   size: 8cm x 3.5cm x 2.5cm
@@ -139,6 +184,10 @@
         As with all of my products I can make this in any style you like. If you have any ideas you would like to discuss please get in touch.
 
 - id: keyring
+  paypal-id: 7996EYEQUZ6EC
+  options:
+   - Standard: £4
+   - Barcode: £8
   name: Keyring
   price: £4
   size: 3.5cm x 3.5cm x 3.5cm, keychain & ring 6cm
@@ -152,6 +201,10 @@
         Made from 5 individual crisp packets these are great conversation pieces. Their light weight and bold design makes them remarkably effective keyrings.
 
 - id: champagne-bottle-bag
+  paypal-id: 2BAFNY8LSEZ9S
+  options:
+   - Standard: £9
+   - Barcode: £18
   name: Champagne Bottle Bag
   price: £9
   size: 26cm x 10.5cm
@@ -164,6 +217,10 @@
   description:  
 
 - id: wine-bottle-bag
+  paypal-id: FQXVWWKXC9F7C
+  options:
+   - Standard: £7
+   - Barcode: £14
   name: Wine Bottle Bag
   price: £7
   size: 26cm x 9cm
@@ -177,6 +234,10 @@
         An excellent conversation piece and a great way to safely transport or store your bottles. Made from over 50 packets and finished with a decorative handle these bags really look the part.  
 
 - id: placemats-coasters
+  paypal-id: 4PAS98FGC9DXN
+  options:
+   - 4 Placemats: £15
+   - 4 Coasters: £8
   name: Placemats & Coasters
   price: 4 placemats £15, 4 coasters £8
   size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
@@ -190,6 +251,10 @@
          Each placemat is made from over 80 crisp packets and is large enough for a large dinner plate. The coasters are made from 6 packets and are suitable for most cups or large mugs. As with all of my products I am happy to adjust colours and sizes to suite your needs.
 
 - id: picture-frame 
+  paypal-id: H5F8628RMT66Q
+  options:
+   - Standard: £7
+   - Barcode: £14
   name: Picture Frame
   price: £7
   size: 18.5cm x 13.5cm
