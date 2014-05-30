@@ -24,7 +24,7 @@
   price: £25
   size: 29.5cm x 16cm x 8cm
   closure: Magnetic
-  img: large-clutch-barcode.jpg
+  img: new/large-clutch-multi.jpg
   category: [handbags]
   strapline: Eye-catchingly elegant
   preamble : | 
@@ -56,7 +56,7 @@
   price: £3
   size: 16cm x 5cm
   closure: 
-  img: bookmark-multi.jpg
+  img: new/bookmark-multi.jpg
   category: [gifts]
   strapline: For the book worms
   preamble: | 
@@ -141,7 +141,7 @@
   price: £15
   size: various
   closure: 
-  img: 
+  img: new/iphone-multi-top.jpg
   category: [devices]
   strapline: You love your phone
   preamble: |
@@ -175,7 +175,7 @@
   price: £3
   size: 8cm x 3.5cm x 2.5cm
   closure: 
-  img: 
+  img: new/lighter-cover-multi-standing.jpg
   category: [gifts]
   strapline: Because we can
   preamble: | 
@@ -192,7 +192,7 @@
   price: £4
   size: 3.5cm x 3.5cm x 3.5cm, keychain & ring 6cm
   closure: 
-  img: 
+  img: new/keyring-purple-silver.jpg
   category: [gifts]
   strapline:  Makes keys hard to lose
   preamble: | 
@@ -225,7 +225,7 @@
   price: £7
   size: 26cm x 9cm
   closure: 
-  img: 
+  img: new/wine-bottle-multi-top.jpg
   category: [gifts]
   strapline: A gift of a gift bag
   preamble: | 
@@ -242,7 +242,7 @@
   price: 4 placemats £15, 4 coasters £8
   size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
   closure: 
-  img: 
+  img: new/placemat-coaster-multi.jpg
   category: [household]
   strapline: Striking and practical
   preamble: | 
