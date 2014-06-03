@@ -50,7 +50,16 @@
         <p>{{product.description}}</p>
         {% endunless %}
 
-        {% include paypal.html %}
+        {% if site.data.features.accept-payments %}
+          {% include paypal.html %}
+        {% else %}
+          {% include buying-options.html %}
+          <p>
+            <a class="btn btn-primary"
+               href="/contact/"
+               role="button">Contact me for availability &raquo;</a>
+          </p>
+        {% endif %}
 
       </div>
 
