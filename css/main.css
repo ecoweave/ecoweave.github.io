@@ -1,12 +1,35 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
   padding-top: 20px;
 }
 
-.footer {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-top: 40px;
-  border-top: 1px solid #eee;
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+
+#footer ul {
+  padding-left: 0;
+}
+
+#footer li {
+  list-style: none;
+  display: inline;
+}
+
+#footer li + li::before {
+  content: " | ";
 }
 
 .dl-horizontal dt {
