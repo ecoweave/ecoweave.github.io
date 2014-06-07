@@ -18,13 +18,6 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            {% if page.menu == "home" %}
-            <li class="active">
-            {% else %}
-            <li>
-            {% endif %}
-                <a href="/">Home</a>
-            </li>
 
             {% if page.menu == "handbags" %}
             <li class="active">
@@ -66,14 +59,8 @@
                 <a href="/all-products/">All Products</a>
             </li>
 
-            {% if page.menu == "contact" %}
-            <li class="active">
-            {% else %}
-            <li>
-            {% endif %}
-                <a href="/contact/">Contact</a>
-            </li>
           </ul>
+
         </div><!--/.nav-collapse -->
       </div>
     </div>
