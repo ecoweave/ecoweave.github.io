@@ -1,61 +1,73 @@
 
-<div class="masthead">
-  <ul class="nav nav-justified">
+    <div class="navbar navbar-default" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">Ecoweave</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            {% if page.menu == "home" %}
+            <li class="active">
+            {% else %}
+            <li>
+            {% endif %}
+                <a href="/">Home</a>
+            </li>
 
-    {% if page.menu == "home" %}
-    <li class="active">
-    {% else %}
-    <li>
-    {% endif %}
-        <a href="/">Home</a>
-    </li>
-    
-    {% if page.menu == "handbags" %}
-    <li class="active">
-    {% else %}
-    <li>
-    {% endif %}
-        <a href="/handbags-and-purses/">Bags &amp; Purses</a>
-    </li>
-    
-    {% if page.menu == "devices" %}
-    <li class="active">
-    {% else %}
-    <li>
-    {% endif %}
-        <a href="/device-covers/">Device Covers</a>
-    </li>
-    
-    {% if page.menu == "accessories" %}
-    <li class="active">
-    {% else %}
-    <li>
-    {% endif %}
-        <a href="/gifts-and-accessories/">Gifts &amp; Accessories</a>
-    </li>
- 
-    {% if page.menu == "household" %}
-    <li class="active">
-    {% else %}
-    <li>
-    {% endif %}
-        <a href="/household/">Household</a>
-    </li>
+            {% if page.menu == "handbags" %}
+            <li class="active">
+            {% else %}
+            <li>
+            {% endif %}
+                <a href="/handbags-and-purses/">Bags &amp; Purses</a>
+            </li>
 
-    {% if page.menu == "all-products" %}
-    <li class="active">
-    {% else %}
-    <li>
-    {% endif %}
-        <a href="/all-products/">All Products</a>
-    </li>
+            {% if page.menu == "devices" %}
+            <li class="active">
+            {% else %}
+            <li>
+            {% endif %}
+                <a href="/device-covers/">Device Covers</a>
+            </li>
 
-    {% if page.menu == "contact" %}
-    <li class="active">
-    {% else %}
-    <li>
-    {% endif %}
-        <a href="/contact/">Contact</a>
-    </li>            
-  </ul>
-</div>
+            {% if page.menu == "accessories" %}
+            <li class="active">
+            {% else %}
+            <li>
+            {% endif %}
+                <a href="/gifts-and-accessories/">Gifts &amp; Accessories</a>
+            </li>
+
+            {% if page.menu == "household" %}
+            <li class="active">
+            {% else %}
+            <li>
+            {% endif %}
+                <a href="/household/">Household</a>
+            </li>
+
+            {% if page.menu == "all-products" %}
+            <li class="active">
+            {% else %}
+            <li>
+            {% endif %}
+                <a href="/all-products/">All Products</a>
+            </li>
+
+            {% if page.menu == "contact" %}
+            <li class="active">
+            {% else %}
+            <li>
+            {% endif %}
+                <a href="/contact/">Contact</a>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
