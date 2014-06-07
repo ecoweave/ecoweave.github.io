@@ -31,6 +31,10 @@ body {
   content: " | ";
 }
 
+.navbar-brand span {
+  color: #606;
+}
+
 .dl-horizontal dt {
   text-align: left;
   width: auto;
