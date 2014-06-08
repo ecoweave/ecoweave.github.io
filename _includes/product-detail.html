@@ -1,9 +1,10 @@
 
     {% if forloop.first %}
-    <span id="{{product.id}}" />
+      {% assign divider_class = 'hidden' %}
     {% else %}
-    <hr class="featurette-divider" id="{{product.id}}" />
+      {% assign divider_class = 'featurette-divider' %}
     {% endif %}
+    <hr class="{{divider_class}}" id="{{product.id}}" />
 
     {% capture rowcycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 

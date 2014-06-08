@@ -31,6 +31,10 @@ body {
   content: " | ";
 }
 
+.container {
+  margin-top: 50px;
+}
+
 .navbar-brand span {
   color: #606;
 }
