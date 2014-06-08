@@ -41,42 +41,10 @@
   size: 24cm x 13.5cm x 4.5cm
   closure: Zip
   img: small-clutch-silver-black-front.jpg
-  category: [handbags, highlight]
+  category: [handbags]
   strapline: Perfectly formed
   preamble: | 
     This small clutch is big enough to carry a purse, phone and a couple of other essentials while still being small enough to not get in your way. If you would like a particular colour or style please get in touch and I'll be happy to discuss options.  
-  description:
-
-- id: bookmark
-  paypal-id: 6FLYMW8D575WC
-  options:
-   - Standard: £3
-   - Barcode: £6
-  name: Bookmark
-  price: £3
-  size: 16cm x 5cm
-  closure: 
-  img: new/bookmark-multi.jpg
-  category: [gifts]
-  strapline: For the book worms
-  preamble: | 
-    E-book readers are great, as are our kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old paper format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.
-  description:
-
-- id: pencil-case
-  paypal-id: BGMMH2RN2VZ2J
-  options:
-   - Standard: £8
-   - Barcode: £16
-  name: Pencil Case
-  price: £8
-  size: 24cm x 10.5cm x 4.5cm
-  closure: Zip
-  img: pencil-case-blue.jpg
-  category: [gifts, highlight]
-  strapline: A gift for the gifted
-  preamble: | 
-     These pencil cases are quickly becoming the talk of classrooms all over. Made with quality zip closures they will withstand many years of use.
   description:
 
 - id: small-purse
@@ -106,7 +74,7 @@
   size: 19.5cm x 25cm x 3cm (for iPad 2 to 4th generation)
   closure: 
   img: new/ipad-multi-device-back.jpg
-  category: [devices]
+  category: [devices, highlight]
   strapline: Because you'll drop it
   preamble: | 
         Made from over 80 crisp packets to precisely fit your model of iPad. As this cover is made to measure there is no need for a zip so you don't need to worry about any hard edges scratching your lovely screen.
@@ -148,6 +116,38 @@
         Made from over 20 crisp packets to precisely fit your phone. This cover is made to measure so there is no need for a separate closure, your device will be held securely in the protective cover.
   description:  |
         Please specify the make and model of your phone so that I can make the cover fit perfectly. Don't worry if you aren't sure, get in touch and we can work it out.
+
+- id: bookmark
+  paypal-id: 6FLYMW8D575WC
+  options:
+   - Standard: £3
+   - Barcode: £6
+  name: Bookmark
+  price: £3
+  size: 16cm x 5cm
+  closure:
+  img: new/bookmark-multi.jpg
+  category: [gifts]
+  strapline: For the book worms
+  preamble: |
+    E-book readers are great, as are our kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old paper format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.
+  description:
+
+- id: pencil-case
+  paypal-id: BGMMH2RN2VZ2J
+  options:
+   - Standard: £8
+   - Barcode: £16
+  name: Pencil Case
+  price: £8
+  size: 24cm x 10.5cm x 4.5cm
+  closure: Zip
+  img: pencil-case-blue.jpg
+  category: [gifts, highlight]
+  strapline: A gift for the gifted
+  preamble: |
+     These pencil cases are quickly becoming the talk of classrooms all over. Made with quality zip closures they will withstand many years of use.
+  description:
 
 - id: glasses-case
   paypal-id: HRLN4WE5SFQUC
