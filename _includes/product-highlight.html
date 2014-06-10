@@ -1,6 +1,7 @@
 
-    <div class="col-sm-4 text-center">
-      <a href="/all-products/#{{product.id}}">
+    <div class="col-sm-4 text-center" id="{{product.id}}">
+      <a href="/all-products/#{{product.id}}"
+         id="{{product.id}}-view-dtls-img">
         <img alt="{{ product.name }}"
              class="img-circle"
              style="width: 140px; height: 140px;"
@@ -10,6 +11,7 @@
         <p>{{ product.preamble }}</p>
         <p>
           <a class="btn btn-primary"
+             id="{{product.id}}-view-dtls-btn"
              href="/all-products/#{{product.id}}"
              role="button">View details &raquo;</a>
         </p>

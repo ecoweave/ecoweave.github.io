@@ -11,6 +11,7 @@
     {% capture image_div %}
       <div class="col-md-5 hidden-xs hidden-sm">
         <a href="/img/products/full/{{product.img}}"
+           id="{{product.id}}-lightbox-lrg"
            data-toggle="lightbox"
            data-title="{{product.name}}">
         <img src="/img/products/thumb/{{product.img}}"
@@ -30,8 +31,9 @@
 
         <div class="visible-xs visible-sm" style="float:right;">
           <a href="/img/products/full/{{product.img}}"
-           data-toggle="lightbox"
-           data-title="{{product.name}}">
+             id="{{product.id}}-lightbox-sml"
+             data-toggle="lightbox"
+             data-title="{{product.name}}">
           <img src="/img/products/thumb/{{product.img}}"
                class="featurette-image img-responsive img-thumbnail"
                alt="{{product.name}}"
@@ -57,6 +59,7 @@
           {% include buying-options.html %}
           <p>
             <a class="btn btn-primary"
+               id="{{product.id}}-contact-btn"
                href="/contact/"
                role="button">Contact me for availability &raquo;</a>
           </p>
