@@ -30,9 +30,9 @@
                 event.preventDefault();
                 return $(this).ekkoLightbox({
                     onShown: function() {
-                        ga('send', 'event', 'lightbox', 'click', this.context.id);
+                        ga('send', 'event', 'lightbox', 'click', this.options.title);
                         if (window.console) {
-                            return console.log('Checking out the events huh?');
+                            console.log('Checking out the events huh?');
                         }
                     }
                 });
