@@ -1,5 +1,5 @@
 name: Ecoweave - creativity with crisp packets 
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 author: ecoweave.co.uk
 title: Ecoweave
