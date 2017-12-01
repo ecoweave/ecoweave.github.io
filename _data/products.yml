@@ -64,59 +64,6 @@
   description: |
         If you would like larger or smaller size then I am happy to make the necessary adjustments. The purses are totally secure so you need not worry about your stuff dropping out.
 
-- id: ipad-cover
-  paypal-id: NHHNEUNYQXC34
-  options:
-   - iPad (2nd, 3rd or 4th Gen): £20
-   - iPad Mini: £15
-  name: iPad Cover
-  price: £20
-  size: 19.5cm x 25cm x 3cm (for iPad 2 to 4th generation)
-  closure: 
-  img: new/ipad-multi-device-back.jpg
-  category: [devices, highlight]
-  strapline: Because you'll drop it
-  preamble: | 
-        Made from over 80 crisp packets to precisely fit your model of iPad. As this cover is made to measure there is no need for a zip so you don't need to worry about any hard edges scratching your lovely screen.
-  description: |
-        Please specify the model of iPad or tablet that you have so that I can make the cover fit perfectly. Don't worry if you aren't sure, get in touch and we can work it out.
-
-- id: kindle-cover
-  paypal-id: 3K288Q4HCD2G2
-  options:
-   - Kindle 3, 4, 5, Paperwhite &amp; Touch: £12
-   - Kindle Keyboard: £14
-   - Fire HD: £14
-  name: Kindle Cover
-  price: Kindle 4, Paperwhite & Touch £12, Kindle Keyboard & Fire HD £14
-  size: 13cm x 17.5cm x 2.5cm
-  closure: 
-  img: kindle-cover-multi.jpg
-  category: [devices]
-  strapline: All models covered
-  preamble: |
-        Made to perfectly fit your kindle from between 40 and 50 crisp packets, depending on model. As this cover is made to measure there is no need for a zip so there is no worry of scratching your beloved Kindle!
-  description: |
-        Please indicate which model of Kindle you have when ordering so that we can supply the correct size. The model shown here is a classic multicolour design. As with all of my products if you would like a particular colour or theme just let me know and I'll be glad to discuss options.
-        If your device is not listed below I am, in most cases, still able to make a cover to fit based on the dimensions of the device.
-
-- id: phone-cover
-  paypal-id: KYG6XMZUM7FQS
-  options:
-   - iPhone 4 or 4s: £15
-   - iPhone 5s or 5c: £15
-  name: iPhone Cover
-  price: £15
-  size: various
-  closure: 
-  img: new/iphone-multi-top.jpg
-  category: [devices]
-  strapline: You love your phone
-  preamble: |
-        Made from over 20 crisp packets to precisely fit your phone. This cover is made to measure so there is no need for a separate closure, your device will be held securely in the protective cover.
-  description:  |
-        Please specify the make and model of your phone so that I can make the cover fit perfectly. Don't worry if you aren't sure, get in touch and we can work it out.
-
 - id: bookmark
   paypal-id: 6FLYMW8D575WC
   options:
@@ -199,39 +146,6 @@
         Made using quality hardware and filled with polystyrene to maintain their shape these keyrings are a great way to keep track of your keys. 
   description: |
         Made from 5 individual crisp packets these are great conversation pieces. Their light weight and bold design makes them remarkably effective keyrings.
-
-- id: champagne-bottle-bag
-  paypal-id: 2BAFNY8LSEZ9S
-  options:
-   - Standard: £9
-   - Barcode: £18
-  name: Champagne Bottle Bag
-  price: £9
-  size: 26cm x 10.5cm
-  closure: 
-  img: champagne-holder-silver-purple.jpg
-  category: [gifts]
-  strapline: Big bag for bubbly
-  preamble: | 
-        A larger version of the popular wine bottle holder this bag adds an extra sparkle to your bubbly. Seen here in silver with purple & yellow accents but available in any design you like.
-  description:  
-
-- id: wine-bottle-bag
-  paypal-id: FQXVWWKXC9F7C
-  options:
-   - Standard: £7
-   - Barcode: £14
-  name: Wine Bottle Bag
-  price: £7
-  size: 26cm x 9cm
-  closure: 
-  img: new/wine-bottle-multi-top.jpg
-  category: [gifts]
-  strapline: A gift of a gift bag
-  preamble: | 
-        These bottle bags add an extra special touch to your gifts and are sure to last longer than the items they are designed to carry!
-  description: |
-        An excellent conversation piece and a great way to safely transport or store your bottles. Made from over 50 packets and finished with a decorative handle these bags really look the part.  
 
 - id: placemats-coasters
   paypal-id: 4PAS98FGC9DXN
