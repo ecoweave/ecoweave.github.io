@@ -183,6 +183,23 @@
   description: |
         As with all of my products I can make this in any style you like. If you have any ideas you would like to discuss please get in touch.
 
+- id: keyring
+  paypal-id: 7996EYEQUZ6EC
+  options:
+   - Standard: £4
+   - Barcode: £8
+  name: Keyring
+  price: £4
+  size: 3.5cm x 3.5cm x 3.5cm, keychain & ring 6cm
+  closure: 
+  img: new/keyring-purple-silver.jpg
+  category: [gifts]
+  strapline:  Makes keys hard to lose
+  preamble: | 
+        Made using quality hardware and filled with polystyrene to maintain their shape these keyrings are a great way to keep track of your keys. 
+  description: |
+        Made from 5 individual crisp packets these are great conversation pieces. Their light weight and bold design makes them remarkably effective keyrings.
+
 - id: champagne-bottle-bag
   paypal-id: 2BAFNY8LSEZ9S
   options:
