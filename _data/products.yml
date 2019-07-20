@@ -1,3 +1,19 @@
+- id: cross-body-bag
+  paypal-id: 27MSDEQBD5GGU
+  options:
+   - Standard: £45
+  name: Cross Body Bag
+  price: £45
+  size: Bag 22cm x 21cm x 4cm, Handle 116cm
+  closure: Magnetic
+  img: new/cross-body-bag.jpg
+  category: [handbags]
+  strapline: Packed full of flavours
+  preamble: |
+    This narrow-depth cross body bag has a high quality magnetic closure and is ideal for daily use. Large enough for all of your essentials and with its matching strap offers hand-free convenience.
+  description: |
+    This item is made from over 200 crisp packets and takes around two weeks to create. It is shown here in the popular multicoloured style. If you have ideas for particular colours or themes just let me know, I'm always keen to hear suggestions.
+
 - id: medium-handbag
   paypal-id: SVDCH84KSYH2Y
   options:
@@ -11,7 +27,7 @@
   category: [handbags, highlight]
   strapline: Stylish and practical
   preamble: |
-    This medium size hand bag has a secure zip closure and is perfect for everyday use. Large enough for all of your everyday essentials and stylish enough to take anywhere. A high quality zip ensures that all of your belongings are kept safe and out of sight.
+    This medium size hand bag has a secure zip closure and is perfect for everyday use. Large enough for all of your essentials and stylish enough to take anywhere. A high quality zip ensures that all of your belongings are kept safe and out of sight.
   description: |
     Shown here in the traditional multicoloured style which offers the maximum variety for impromptu 'name the packet' sessions. Made from approximately 115 crisp packets it takes four to five days to create. If you would like a particular colour or theme just let me know, I'll be happy to hear what you have in mind.
 
@@ -63,6 +79,22 @@
     These fun purses make great gifts. Made from over 16 packets, the standard size is large enough for coins, notes, and a couple of cards but small enough to fit in a pocket. 
   description: |
         If you would like larger or smaller size then I am happy to make the necessary adjustments. The purses are totally secure so you need not worry about your stuff dropping out.
+
+- id: wash-bag
+  paypal-id: DB6KG3E4QSSJL
+  options:
+   - Standard: £25
+  name: Wash / Makeup Bag
+  price: £25
+  size: Bag 23cm x 14cm x 9cm
+  closure: Zip
+  img: new/wash-bag.jpg
+  category: [gifts]
+  strapline: Perfect at home or away
+  preamble: |
+    This versatile bag is perfect for use as a makeup or wash bag. It has a high quality zip closure and a wide opening for easy access.
+  description: |
+    It is shown here in the popular multicoloured style. If you have ideas for particular colours or themes just let me know, I'm always keen to hear suggestions.
 
 - id: bookmark
   paypal-id: 6FLYMW8D575WC
