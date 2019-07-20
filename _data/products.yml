@@ -20,6 +20,8 @@
   options:
    - Standard: £30
    - Barcode: £60
+  # Empty list will use default colour list
+  colors: []
   name: Medium Handbag
   price: £30
   size: Bag 28.5cm x 19.5cm x 8cm, Handles 39cm
@@ -37,6 +39,8 @@
   options:
    - Standard: £25
    - Barcode: £50
+  # Empty list will use default colour list
+  colors: []
   name: Large Clutch Bag
   price: £25
   size: 29.5cm x 16cm x 8cm
@@ -53,6 +57,8 @@
   options:
    - Standard: £20
    - Barcode: £40
+  # Empty list will use default colour list
+  colors: []
   name: Small Clutch Bag
   price: £20
   size: 24cm x 13.5cm x 4.5cm
@@ -69,6 +75,8 @@
   options:
    - Standard: £7
    - Barcode: £14
+  # Empty list will use default colour list
+  colors: []
   name: Small Purse
   price: £7
   size: 12cm x 9cm x 2.5cm
@@ -85,6 +93,8 @@
   paypal-id: DB6KG3E4QSSJL
   options:
    - Standard: £25
+  # Empty list will use default colour list
+  colors: []
   name: Wash / Makeup Bag
   price: £25
   size: Bag 23cm x 14cm x 9cm
@@ -102,6 +112,8 @@
   options:
    - Standard: £3
    - Barcode: £6
+  # Empty list will use default colour list
+  colors: []
   name: Bookmark
   price: £3
   size: 16cm x 5cm
@@ -118,6 +130,8 @@
   options:
    - Standard: £8
    - Barcode: £16
+  # Empty list will use default colour list
+  colors: []
   name: Pencil Case
   price: £8
   size: 24cm x 10.5cm x 4.5cm
@@ -134,6 +148,8 @@
   options:
    - Standard: £5
    - Barcode: £10
+  # Empty list will use default colour list
+  colors: []
   name: Glasses Case
   price: £5
   size: 16.5cm x 7cm x 2.5cm
@@ -151,6 +167,8 @@
   options:
    - Standard: £4
    - Barcode: £8
+  # Empty list will use default colour list
+  colors: []
   name: Keyring
   price: £4
   size: 3.5cm x 3.5cm x 3.5cm, keychain & ring 6cm
@@ -168,6 +186,8 @@
   options:
    - 4 Placemats: £15
    - 4 Coasters: £8
+  # Empty list will use default colour list
+  colors: []
   name: Placemats & Coasters
   price: 4 placemats £15, 4 coasters £8
   size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
