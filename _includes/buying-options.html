@@ -29,6 +29,7 @@
   </dt>
   <dd id="{{product.id}}-colours-dd">
     <select name="os1" id="{{product.id}}-colours-select">
+        {% if product.colors == empty %}
         <option value="Multicoloured">Multicoloured </option>
         <option value="Red">Red </option>
         <option value="Blue">Blue </option>
@@ -37,7 +38,12 @@
         <option value="Pink">Pink </option>
         <option value="Purple">Purple </option>
         <option value="Silver">Silver </option>
-        <option value="Not Applicable" style="display:none;">Not Applicable </option>
+        {% else %}
+        {% for color in product.colors %}
+        <option value="{{color}}">{{color}} </option>
+        {% endfor %}
+        {% endif %}  
+      <option value="Not Applicable" style="display:none;">Not Applicable </option>
     </select>
   </dd>
 </dl>
