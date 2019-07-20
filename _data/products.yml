@@ -113,23 +113,6 @@
   description: |
         The standard size has been tested on a wide range of glasses to provide a sung fit. If your glasses are larger or more flamboyant than most then include the size when you get in touch. The cases can be made in any design and colour and all come with a free cleaning cloth.
 
-- id: lighter-cover
-  paypal-id: Q5VTBSU762WSS
-  options:
-   - Standard: £3
-   - Barcode: £6
-  name: Lighter Cover
-  price: £3
-  size: 8cm x 3.5cm x 2.5cm
-  closure: 
-  img: new/lighter-cover-multi-standing.jpg
-  category: [gifts]
-  strapline: Because we can
-  preamble: | 
-        This item was originally created following a special request from one of my customers. The cover adds a touch of originality to cheap disposable lighters. 
-  description: |
-        As with all of my products I can make this in any style you like. If you have any ideas you would like to discuss please get in touch.
-
 - id: keyring
   paypal-id: 7996EYEQUZ6EC
   options:
