@@ -184,12 +184,12 @@
 - id: placemats-coasters
   paypal-id: 4PAS98FGC9DXN
   options:
-   - 4 Placemats: £15
-   - 4 Coasters: £8
+   - 4 Placemats: £20
+   - 4 Coasters: £10
   # Empty list will use default colour list
   colors: [Multicoloured, Silver]
   name: Placemats & Coasters
-  price: 4 placemats £15, 4 coasters £8
+  price: 4 placemats £20, 4 coasters £10
   size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
   closure: 
   img: new/placemat-coaster-multi.jpg
