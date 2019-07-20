@@ -2,7 +2,7 @@
   paypal-id: 27MSDEQBD5GGU
   options:
    - Standard: £45
-  colors: [Multicoloured]
+  colors: [Multicoloured, Silver]
   name: Cross Body Bag
   price: £45
   size: Bag 22cm x 21cm x 4cm, Handle 116cm
@@ -187,7 +187,7 @@
    - 4 Placemats: £15
    - 4 Coasters: £8
   # Empty list will use default colour list
-  colors: []
+  colors: [Multicoloured, Silver]
   name: Placemats & Coasters
   price: 4 placemats £15, 4 coasters £8
   size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
