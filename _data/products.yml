@@ -18,12 +18,12 @@
 - id: medium-handbag
   paypal-id: SVDCH84KSYH2Y
   options:
-   - Standard: £30
-   - Barcode: £60
+   - Standard: £35
+   - Barcode: £65
   # Empty list will use default colour list
   colors: []
   name: Medium Handbag
-  price: £30
+  price: £35
   size: Bag 28.5cm x 19.5cm x 8cm, Handles 39cm
   closure: Zip
   img: medium-handbag-multi.jpg
@@ -37,12 +37,12 @@
 - id: large-clutch-bag
   paypal-id: WSQVCMAT3656S
   options:
-   - Standard: £25
-   - Barcode: £50
+   - Standard: £30
+   - Barcode: £55
   # Empty list will use default colour list
   colors: []
   name: Large Clutch Bag
-  price: £25
+  price: £30
   size: 29.5cm x 16cm x 8cm
   closure: Magnetic
   img: new/large-clutch-multi.jpg
@@ -55,12 +55,12 @@
 - id: small-clutch-bag
   paypal-id: RFEFJH5QFDZA2
   options:
-   - Standard: £20
-   - Barcode: £40
+   - Standard: £25
+   - Barcode: £45
   # Empty list will use default colour list
   colors: []
   name: Small Clutch Bag
-  price: £20
+  price: £25
   size: 24cm x 13.5cm x 4.5cm
   closure: Zip
   img: small-clutch-silver-black-front.jpg
@@ -73,12 +73,12 @@
 - id: small-purse
   paypal-id: Q338LW728BFGA
   options:
-   - Standard: £7
-   - Barcode: £14
+   - Standard: £10
+   - Barcode: £18
   # Empty list will use default colour list
   colors: []
   name: Small Purse
-  price: £7
+  price: £10
   size: 12cm x 9cm x 2.5cm
   closure: Zip
   img: purse-multi.jpg
@@ -110,12 +110,12 @@
 - id: bookmark
   paypal-id: 6FLYMW8D575WC
   options:
-   - Standard: £3
-   - Barcode: £6
+   - Standard: £6
+   - Barcode: £10
   # Empty list will use default colour list
   colors: []
   name: Bookmark
-  price: £3
+  price: £6
   size: 16cm x 5cm
   closure:
   img: new/bookmark-multi.jpg
@@ -128,12 +128,12 @@
 - id: pencil-case
   paypal-id: BGMMH2RN2VZ2J
   options:
-   - Standard: £8
-   - Barcode: £16
+   - Standard: £11
+   - Barcode: £18
   # Empty list will use default colour list
   colors: []
   name: Pencil Case
-  price: £8
+  price: £11
   size: 24cm x 10.5cm x 4.5cm
   closure: Zip
   img: pencil-case-blue.jpg
@@ -146,12 +146,12 @@
 - id: glasses-case
   paypal-id: HRLN4WE5SFQUC
   options:
-   - Standard: £5
-   - Barcode: £10
+   - Standard: £8
+   - Barcode: £14
   # Empty list will use default colour list
   colors: []
   name: Glasses Case
-  price: £5
+  price: £8
   size: 16.5cm x 7cm x 2.5cm
   closure: 
   img: glasses-case-multi.jpg
@@ -165,12 +165,12 @@
 - id: keyring
   paypal-id: 7996EYEQUZ6EC
   options:
-   - Standard: £4
-   - Barcode: £8
+   - Standard: £6
+   - Barcode: £10
   # Empty list will use default colour list
   colors: []
   name: Keyring
-  price: £4
+  price: £6
   size: 3.5cm x 3.5cm x 3.5cm, keychain & ring 6cm
   closure: 
   img: new/keyring-purple-silver.jpg
