@@ -1,20 +1,3 @@
-- id: cross-body-bag
-  paypal-id: 27MSDEQBD5GGU
-  options:
-   - Standard: £45
-  colors: [Multicoloured, Silver]
-  name: Cross Body Bag
-  price: £45
-  size: Bag 22cm x 21cm x 4cm, Handle 116cm
-  closure: Magnetic
-  img: new/cross-body-bag.jpg
-  category: [handbags]
-  strapline: Packed full of flavours
-  preamble: |
-    This narrow-depth cross body bag has a high quality magnetic closure and is ideal for daily use. Large enough for all of your essentials and with its matching strap offers hand-free convenience.
-  description: |
-    This item is made from over 200 crisp packets and takes around two weeks to create. It is shown here in the popular multicoloured style. If you have ideas for particular colours or themes just let me know, I'm always keen to hear suggestions.
-
 - id: medium-handbag
   paypal-id: SVDCH84KSYH2Y
   options:
