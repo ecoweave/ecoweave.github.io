@@ -1,7 +1,6 @@
 - id: medium-handbag
   paypal-id: SVDCH84KSYH2Y
   options:
-   - Standard: £35
    - Barcode: £65
   # Empty list will use default colour list
   colors: []
