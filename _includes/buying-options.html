@@ -50,7 +50,7 @@ $(document).ready(function ($) {
     } else {
       $("#{{product.id}}-colours-dt").show();
       $("#{{product.id}}-colours-dd").show();
-      $("#{{product.id}}-colours-select").val("Multicoloured");
+      $("#{{product.id}}-colours-select")[0].selectedIndex = 0;
     }
   })
 });
