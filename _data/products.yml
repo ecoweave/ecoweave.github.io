@@ -2,7 +2,6 @@
   paypal-id: SVDCH84KSYH2Y
   options:
    - Barcode: £65
-  # Empty list will use default colour list
   colors: []
   name: Medium Handbag
   price: £35
@@ -21,7 +20,6 @@
   options:
    - Standard: £30
    - Barcode: £55
-  # Empty list will use default colour list
   colors: [Multicoloured]
   name: Large Clutch Bag
   price: £30
@@ -39,8 +37,7 @@
   options:
    - Standard: £25
    - Barcode: £45
-  # Empty list will use default colour list
-  colors: []
+  colors: [Blue, Pastel Multi., Silver & Red]
   name: Small Clutch Bag
   price: £25
   size: 24cm x 13.5cm x 4.5cm
@@ -57,8 +54,7 @@
   options:
    - Standard: £10
    - Barcode: £18
-  # Empty list will use default colour list
-  colors: []
+  colors: [Multicoloured, Blue, Gold, Green, Pastel Multi., Red, Silver, Black & Red]
   name: Small Purse
   price: £10
   size: 12cm x 9cm x 2.5cm
