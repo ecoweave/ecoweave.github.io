@@ -24,6 +24,7 @@
     </select>
   </dd>
 
+  {% if product.options contains 'Standard' %}
   <dt id="{{product.id}}-colours-dt">
     <input type="hidden" name="on1" value="Colour">Colour
   </dt>
@@ -46,6 +47,7 @@
       <option value="Not Applicable" style="display:none;">Not Applicable </option>
     </select>
   </dd>
+    {% endif %}
 </dl>
 
 <script type="text/javascript">
