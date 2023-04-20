@@ -11,7 +11,7 @@
   category: [handbags, highlight]
   strapline: Stylish and practical
   preamble: |
-    This medium size hand bag has a secure zip closure and is perfect for everyday use. Large enough for all of your essentials and stylish enough to take anywhere. A high quality zip ensures that all of your belongings are kept safe and out of sight.
+    This medium size handbag has a secure zip closure and is perfect for everyday use. Large enough for all of your essentials and stylish enough to take anywhere. A high quality zip ensures that all of your belongings are kept safe and out of sight.
   description: |
     Shown here in the traditional multicoloured style which offers the maximum variety for impromptu 'name the packet' sessions. Made from approximately 115 crisp packets it takes four to five days to create. If you would like a particular colour or theme just let me know, I'll be happy to hear what you have in mind.
 
@@ -29,7 +29,7 @@
   category: [handbags]
   strapline: Eye-catchingly elegant
   preamble : | 
-    This bag is hand crafted from over 100 crisp packets and finished with a quality magnetic clasp. Seen here in the popular multicolour style but, as with all of the products, available in any style you'd like.
+    This bag is handcrafted from over 100 crisp packets and finished with a quality magnetic clasp. Seen here in the popular multicolour style but, as with all the products, available in any style you'd like.
   description: 
 
 - id: small-clutch-bag
@@ -37,7 +37,7 @@
   options:
    - Standard: £25
    - Barcode: £45
-  colors: [Blue, Pastel Multi., Silver & Red]
+  colors: [Blue, Pastel Multicoloured, Silver & Red]
   name: Small Clutch Bag
   price: £25
   size: 24cm x 13.5cm x 4.5cm
@@ -54,10 +54,10 @@
   options:
    - Standard: £10
    - Barcode: £18
-  colors: [Multicoloured, Blue, Gold, Green, Pastel Multi., Red, Silver, Black & Red]
+  colors: [Multicoloured, Blue, Gold, Green, Pastel Multicoloured, Red, Silver, Black & Red]
   name: Small Purse
   price: £10
-  size: 12cm x 9cm x 2.5cm
+  size: 12cm x 9cm x 2.5cm§
   closure: Zip
   img: purse-multi.jpg
   category: [purses]
@@ -65,14 +65,13 @@
   preamble: | 
     These fun purses make great gifts. Made from over 16 packets, the standard size is large enough for coins, notes, and a couple of cards but small enough to fit in a pocket. 
   description: |
-        If you would like larger or smaller size then I am happy to make the necessary adjustments. The purses are totally secure so you need not worry about your stuff dropping out.
+        If you would like larger or smaller size then I am happy to make the necessary adjustments. The purses are totally secure, so you need not worry about your stuff dropping out.
 
 - id: wash-bag
   paypal-id: DB6KG3E4QSSJL
   options:
    - Standard: £25
-  # Empty list will use default colour list
-  colors: []
+  colors: [Multicoloured, Silver]
   name: Wash / Makeup Bag
   price: £25
   size: Bag 23cm x 14cm x 9cm
@@ -90,26 +89,23 @@
   options:
    - Standard: £6
    - Barcode: £10
-  # Empty list will use default colour list
-  colors: []
+  colors: [Multicoloured, Blue]
   name: Bookmark
   price: £6
   size: 16cm x 5cm
   closure:
   img: new/bookmark-multi.jpg
   category: [gifts]
-  strapline: For the book worms
+  strapline: For the bookworms
   preamble: |
-    E-book readers are great, as are our kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old paper format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.
+    E-book readers are great, as are our Kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old paper format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.
   description:
 
 - id: pencil-case
   paypal-id: BGMMH2RN2VZ2J
   options:
    - Standard: £11
-   - Barcode: £18
-  # Empty list will use default colour list
-  colors: []
+  colors: [Blue, Pink, Red, Silver]
   name: Pencil Case
   price: £11
   size: 24cm x 10.5cm x 4.5cm
@@ -126,8 +122,7 @@
   options:
    - Standard: £8
    - Barcode: £14
-  # Empty list will use default colour list
-  colors: []
+  colors: [Multicoloured, Blue, Green, Black, Pink, Silver, Silver & Purple]
   name: Glasses Case
   price: £8
   size: 16.5cm x 7cm x 2.5cm
@@ -145,15 +140,14 @@
   options:
    - Standard: £6
    - Barcode: £10
-  # Empty list will use default colour list
-  colors: []
+  colors: [Multicoloured, Silver, Pastel Multicoloured, Pink & Silver]
   name: Keyring
   price: £6
   size: 3.5cm x 3.5cm x 3.5cm, keychain & ring 6cm
   closure: 
   img: new/keyring-purple-silver.jpg
   category: [gifts]
-  strapline:  Makes keys hard to lose
+  strapline:  Make keys hard to lose
   preamble: | 
         Made using quality hardware and filled with polystyrene to maintain their shape these keyrings are a great way to keep track of your keys. 
   description: |
@@ -164,8 +158,7 @@
   options:
    - 4 Placemats: £20
    - 4 Coasters: £10
-  # Empty list will use default colour list
-  colors: [Multicoloured, Silver]
+  colors: [Silver]
   name: Placemats & Coasters
   price: 4 placemats £20, 4 coasters £10
   size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
