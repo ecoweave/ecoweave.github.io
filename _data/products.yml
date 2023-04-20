@@ -22,7 +22,7 @@
    - Standard: £30
    - Barcode: £55
   # Empty list will use default colour list
-  colors: []
+  colors: [Multicoloured]
   name: Large Clutch Bag
   price: £30
   size: 29.5cm x 16cm x 8cm

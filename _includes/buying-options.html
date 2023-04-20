@@ -24,30 +24,20 @@
     </select>
   </dd>
 
-  {% if product.options contains 'Standard' %}
+
+  {% if product.colors != empty %}
   <dt id="{{product.id}}-colours-dt">
     <input type="hidden" name="on1" value="Colour">Colour
   </dt>
-  <dd id="{{product.id}}-colours-dd">
-    <select name="os1" id="{{product.id}}-colours-select">
-        {% if product.colors == empty %}
-        <option value="Multicoloured">Multicoloured </option>
-        <option value="Red">Red </option>
-        <option value="Blue">Blue </option>
-        <option value="Green">Green </option>
-        <option value="Yellow">Yellow </option>
-        <option value="Pink">Pink </option>
-        <option value="Purple">Purple </option>
-        <option value="Silver">Silver </option>
-        {% else %}
+    <dd id="{{product.id}}-colours-dd">
+      <select name="os1" id="{{product.id}}-colours-select">
         {% for color in product.colors %}
         <option value="{{color}}">{{color}} </option>
         {% endfor %}
-        {% endif %}  
       <option value="Not Applicable" style="display:none;">Not Applicable </option>
     </select>
   </dd>
-    {% endif %}
+  {% endif %}
 </dl>
 
 <script type="text/javascript">
