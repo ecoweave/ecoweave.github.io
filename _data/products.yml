@@ -20,8 +20,9 @@
   allow-purchase: true
   paypal-id: SVDCH84KSYH2Y
   options:
+   - Standard: £35
    - Barcode: £65
-  colors: []
+  colors: [Multicoloured]
   name: Medium Handbag
   price: £35
   size: Bag 28.5cm x 19.5cm x 8cm, Handles 39cm
@@ -38,8 +39,9 @@
   allow-purchase: true
   paypal-id: WSQVCMAT3656S
   options:
+   - Standard: £30
    - Barcode: £55
-  colors: []
+  colors: [Multicoloured]
   name: Large Clutch Bag
   price: £30
   size: 29.5cm x 16cm x 8cm
@@ -56,8 +58,7 @@
   paypal-id: RFEFJH5QFDZA2
   options:
    - Standard: £25
-   - Barcode: £45
-  colors: [Blue, Pastel Multicoloured, Silver & Red]
+  colors: [Blue, Pastel Multicoloured, Silver & Red, Black & Pink]
   name: Small Clutch Bag
   price: £25
   size: 24cm x 13.5cm x 4.5cm
@@ -75,7 +76,7 @@
   options:
    - Standard: £10
    - Barcode: £18
-  colors: [Multicoloured, Blue, Gold, Green, Pastel Multicoloured, Red, Silver, Black & Red]
+  colors: [Multicoloured, Pastel Multicoloured, Blue, Green, Red, Gold, Silver]
   name: Small Purse
   price: £10
   size: 12cm x 9cm x 2.5cm
@@ -129,7 +130,7 @@
   paypal-id: BGMMH2RN2VZ2J
   options:
    - Standard: £11
-  colors: [Blue, Pink, Red, Silver]
+  colors: [Pastel Multicoloured, Blue, Pink, Red, Silver]
   name: Pencil Case
   price: £11
   size: 24cm x 10.5cm x 4.5cm
@@ -147,7 +148,7 @@
   options:
    - Standard: £8
    - Barcode: £14
-  colors: [Multicoloured, Blue, Green, Black, Pink, Silver, Silver & Purple]
+  colors: [Multicoloured, Blue, Green, Pink, Silver, Silver & Purple]
   name: Glasses Case
   price: £8
   size: 16.5cm x 7cm x 2.5cm
@@ -161,12 +162,12 @@
         The standard size has been tested on a wide range of glasses to provide a sung fit. If your glasses are larger or more flamboyant than most then include the size when you get in touch. The cases can be made in any design and colour and all come with a free cleaning cloth.
 
 - id: keyring
-  allow-purchase: false
+  allow-purchase: true
   paypal-id: 7996EYEQUZ6EC
   options:
    - Standard: £6
    - Barcode: £10
-  colors: [Multicoloured, Silver, Pastel Multicoloured, Pink & Silver]
+  colors: [Multicoloured, Pastel Multicoloured, Pink & Silver, Silver]
   name: Keyring
   price: £6
   size: 3.5cm x 3.5cm x 3.5cm, keychain & ring 6cm
