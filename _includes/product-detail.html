@@ -53,7 +53,7 @@
         <p>{{product.description}}</p>
         {% endunless %}
 
-        {% if site.data.features.accept-payments %}
+        {% if site.data.features.accept-payments and product.allow-purchase %}
           {% include paypal.html %}
         {% else %}
           {% include buying-options.html %}
