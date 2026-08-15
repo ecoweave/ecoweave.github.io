@@ -9,3 +9,8 @@ keywords:
 - upcycle
 - candy wrapper
 - crisp packet products
+
+# Repository documentation, not part of the published site
+exclude:
+- CLAUDE.md
+- README.md
