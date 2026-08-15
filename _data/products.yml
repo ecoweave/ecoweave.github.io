@@ -12,9 +12,9 @@
   category: [handbags]
   strapline: Packed full of flavours
   preamble: |
-    This narrow-depth cross body bag has a high quality magnetic closure and is ideal for daily use. Large enough for all of your essentials and with its matching strap offers hand-free convenience.
+    A slim cross body bag with a strong magnetic closure, made for everyday carrying. There is room for all your essentials, and the matching strap leaves your hands free.
   description: |
-    This item is made from over 200 crisp packets and takes around two weeks to create. It is shown here in the popular multicoloured style. If you have ideas for particular colours or themes just let me know, I'm always keen to hear suggestions.
+    Each one is woven from more than 200 crisp packets and takes around a fortnight to make. Shown here in the multicoloured style, which is the one most people go for. Other colours and themes are always possible, so tell me what you have in mind.
 
 - id: medium-handbag
   allow-purchase: true
@@ -31,9 +31,9 @@
   category: [handbags, highlight]
   strapline: Stylish and practical
   preamble: |
-    This medium size handbag has a secure zip closure and is perfect for everyday use. Large enough for all of your essentials and stylish enough to take anywhere. A high quality zip ensures that all of your belongings are kept safe and out of sight.
+    A medium handbag with a secure zip, sized for everyday use. Big enough for your essentials, smart enough to take anywhere, and the zip keeps everything safely out of sight.
   description: |
-    Shown here in the traditional multicoloured style which offers the maximum variety for impromptu 'name the packet' sessions. Made from approximately 115 crisp packets it takes four to five days to create. If you would like a particular colour or theme just let me know, I'll be happy to hear what you have in mind.
+    Shown in the traditional multicoloured style, which gives the most scope for an impromptu game of 'name the packet'. It takes around 115 crisp packets and four or five days to make.
 
 - id: large-clutch-bag
   allow-purchase: true
@@ -49,9 +49,9 @@
   img: new/large-clutch-multi.jpg
   category: [handbags]
   strapline: Eye-catchingly elegant
-  preamble : | 
-    This bag is handcrafted from over 100 crisp packets and finished with a quality magnetic clasp. Seen here in the popular multicolour style but, as with all the products, available in any style you'd like.
-  description: 
+  preamble: |
+    Handcrafted from more than 100 crisp packets and finished with a quality magnetic clasp. Shown here in multicoloured, though like everything else it can be made in whatever takes your fancy.
+  description:
 
 - id: small-clutch-bag
   allow-purchase: true
@@ -66,8 +66,8 @@
   img: small-clutch-silver-black-front.jpg
   category: [handbags]
   strapline: Perfectly formed
-  preamble: | 
-    This small clutch is big enough to carry a purse, phone and a couple of other essentials while still being small enough to not get in your way. If you would like a particular colour or style please get in touch and I'll be happy to discuss options.  
+  preamble: |
+    Big enough for a purse, a phone and a couple of other bits, small enough that it never gets in your way. If you have a colour or pattern in mind, get in touch and I will see what I can do.
   description:
 
 - id: small-purse
@@ -83,11 +83,11 @@
   closure: Zip
   img: purse-multi.jpg
   category: [purses]
-  strapline: Fill it with your money
-  preamble: | 
-    These fun purses make great gifts. Made from over 16 packets, the standard size is large enough for coins, notes, and a couple of cards but small enough to fit in a pocket. 
+  strapline: Small but sturdy
+  preamble: |
+    Made from around 16 packets, the standard size holds coins, notes and a couple of cards while still fitting in a pocket. They make good presents.
   description: |
-        If you would like larger or smaller size then I am happy to make the necessary adjustments. The purses are totally secure, so you need not worry about your stuff dropping out.
+    The zip is secure, so nothing works its way out.
 
 - id: wash-bag
   allow-purchase: true
@@ -103,9 +103,9 @@
   category: [gifts]
   strapline: Perfect at home or away
   preamble: |
-    This versatile bag is perfect for use as a makeup or wash bag. It has a high quality zip closure and a wide opening for easy access.
+    Equally at home on a bathroom shelf or packed in a suitcase. A quality zip and a wide opening mean you can actually find what you are looking for.
   description: |
-    It is shown here in the popular multicoloured style. If you have ideas for particular colours or themes just let me know, I'm always keen to hear suggestions.
+    Shown here in the multicoloured style. If you have a particular colour or theme in mind, I am always glad to hear ideas.
 
 - id: bookmark
   allow-purchase: true
@@ -122,7 +122,7 @@
   category: [gifts]
   strapline: For the bookworms
   preamble: |
-    E-book readers are great, as are our Kindle covers, but sometimes it's nice to leave technology behind and drift away with a book in the good old paper format. Each bookmark is available in any colour and comes complete with a sturdy eyelet and ribbon.
+    Screens have their place, but sometimes it is better to leave them behind and get lost in a paper book. Each bookmark comes with a sturdy eyelet and ribbon, and can be made in any colour you like.
   description:
 
 - id: pencil-case
@@ -139,7 +139,7 @@
   category: [gifts, highlight]
   strapline: A gift for the gifted
   preamble: |
-     These pencil cases are quickly becoming the talk of classrooms all over. Made with quality zip closures they will withstand many years of use.
+    A practical case for pens, pencils, brushes and cables, equally at home on a desk or tucked into a bag. Made with quality zip closures they will withstand many years of use.
   description:
 
 - id: glasses-case
@@ -152,14 +152,14 @@
   name: Glasses Case
   price: £8
   size: 16.5cm x 7cm x 2.5cm
-  closure: 
+  closure:
   img: glasses-case-multi.jpg
   category: [accessories]
   strapline: Protect your specs
   preamble: |
-        A very popular item, these glasses cases protect your glasses from day to day knocks and scrapes and bring a bit of pizazz to an otherwise mundane object. 
+    One of my most popular items. These cases protect your glasses from day to day knocks and scrapes, and bring a bit of pizazz to an otherwise mundane object.
   description: |
-        The standard size has been tested on a wide range of glasses to provide a sung fit. If your glasses are larger or more flamboyant than most then include the size when you get in touch. The cases can be made in any design and colour and all come with a free cleaning cloth.
+    The standard size has been tried against a wide range of glasses for a snug fit. If yours are larger or more flamboyant than most, send me the measurements when you get in touch. Every case comes with a free cleaning cloth.
 
 - id: placemats-coasters
   allow-purchase: true
@@ -171,11 +171,11 @@
   name: Placemats & Coasters
   price: 4 placemats £20, 4 coasters £10
   size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
-  closure: 
+  closure:
   img: new/placemat-coaster-multi.jpg
   category: [household]
-  strapline: Striking and practical
-  preamble: | 
-        These placemats and coasters provide a quality cushioned feel and offer excellent protection against the heat of a plate or cup. Spills can be easily wiped clean with a damp cloth.
+  strapline: A talking point at dinner
+  preamble: |
+    Cushioned enough to protect a table from the heat of a plate or cup, and spills wipe straight off with a damp cloth.
   description: |
-         Each placemat is made from over 80 crisp packets and is large enough for a large dinner plate. The coasters are made from 6 packets and are suitable for most cups or large mugs. As with all of my products I am happy to adjust colours and sizes to suite your needs.
+    Each placemat takes more than 80 crisp packets and is big enough for a full dinner plate. The coasters take 6 and fit most cups and mugs. Colours and patterns can be adjusted to suit you.
