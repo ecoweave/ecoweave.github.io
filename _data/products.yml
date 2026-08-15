@@ -90,11 +90,11 @@
     The zip is secure, so nothing works its way out.
 
 - id: wash-bag
-  allow-purchase: true
+  allow-purchase: false
   paypal-id: DB6KG3E4QSSJL
   options:
    - Standard: £25
-  colors: [Silver]
+  colors: [Multicoloured, Pastel Multicoloured, Blue, Green, Red, Gold, Silver]
   name: Wash / Makeup Bag
   price: £25
   size: Bag 23cm x 14cm x 9cm
