@@ -2,10 +2,10 @@
   allow-purchase: false
   paypal-id: 27MSDEQBD5GGU
   options:
-   - Standard: £45
+   - Standard: £56
   colors: [Multicoloured]
   name: Cross Body Bag
-  price: £45
+  price: £56
   size: Bag 22cm x 21cm x 4cm, Handle 116cm
   closure: Magnetic
   img: new/cross-body-bag.jpg
@@ -20,11 +20,11 @@
   allow-purchase: true
   paypal-id: SVDCH84KSYH2Y
   options:
-   - Standard: £35
-   - Barcode: £65
+   - Standard: £44
+   - Barcode: £82
   colors: [Multicoloured]
   name: Medium Handbag
-  price: £35
+  price: £44
   size: Bag 28.5cm x 19.5cm x 8cm, Handles 39cm
   closure: Zip
   img: medium-handbag-multi.jpg
@@ -39,11 +39,11 @@
   allow-purchase: true
   paypal-id: WSQVCMAT3656S
   options:
-   - Standard: £30
-   - Barcode: £55
+   - Standard: £38
+   - Barcode: £69
   colors: [Multicoloured]
   name: Large Clutch Bag
-  price: £30
+  price: £38
   size: 29.5cm x 16cm x 8cm
   closure: Magnetic
   img: new/large-clutch-multi.jpg
@@ -57,10 +57,10 @@
   allow-purchase: true
   paypal-id: RFEFJH5QFDZA2
   options:
-   - Standard: £25
+   - Standard: £32
   colors: [Blue, Pastel Multicoloured, Silver & Red, Black & Pink]
   name: Small Clutch Bag
-  price: £25
+  price: £32
   size: 24cm x 13.5cm x 4.5cm
   closure: Zip
   img: small-clutch-silver-black-front.jpg
@@ -74,11 +74,11 @@
   allow-purchase: true
   paypal-id: Q338LW728BFGA
   options:
-   - Standard: £10
-   - Barcode: £18
+   - Standard: £12.50
+   - Barcode: £23
   colors: [Multicoloured, Pastel Multicoloured, Blue, Green, Red, Gold, Silver]
   name: Small Purse
-  price: £10
+  price: £12.50
   size: 12cm x 9cm x 2.5cm
   closure: Zip
   img: purse-multi.jpg
@@ -93,10 +93,10 @@
   allow-purchase: false
   paypal-id: DB6KG3E4QSSJL
   options:
-   - Standard: £25
+   - Standard: £32
   colors: [Multicoloured, Pastel Multicoloured, Blue, Green, Red, Gold, Silver]
   name: Wash / Makeup Bag
-  price: £25
+  price: £32
   size: Bag 23cm x 14cm x 9cm
   closure: Zip
   img: new/wash-bag.jpg
@@ -111,11 +111,11 @@
   allow-purchase: true
   paypal-id: 6FLYMW8D575WC
   options:
-   - Standard: £6
-   - Barcode: £10
+   - Standard: £7.50
+   - Barcode: £12.50
   colors: [Multicoloured, Blue]
   name: Bookmark
-  price: £6
+  price: £7.50
   size: 16cm x 5cm
   closure:
   img: new/bookmark-multi.jpg
@@ -129,10 +129,10 @@
   allow-purchase: true
   paypal-id: BGMMH2RN2VZ2J
   options:
-   - Standard: £11
+   - Standard: £14
   colors: [Pastel Multicoloured, Blue, Pink, Red, Silver]
   name: Pencil Case
-  price: £11
+  price: £14
   size: 24cm x 10.5cm x 4.5cm
   closure: Zip
   img: pencil-case-blue.jpg
@@ -146,11 +146,11 @@
   allow-purchase: true
   paypal-id: HRLN4WE5SFQUC
   options:
-   - Standard: £8
-   - Barcode: £14
+   - Standard: £10
+   - Barcode: £18
   colors: [Multicoloured, Blue, Green, Pink, Silver, Silver & Purple]
   name: Glasses Case
-  price: £8
+  price: £10
   size: 16.5cm x 7cm x 2.5cm
   closure:
   img: glasses-case-multi.jpg
@@ -165,11 +165,11 @@
   allow-purchase: true
   paypal-id: 4PAS98FGC9DXN
   options:
-   - 4 Placemats: £20
-   - 4 Coasters: £10
+   - 4 Placemats: £25
+   - 4 Coasters: £12.50
   colors: [Silver]
   name: Placemats & Coasters
-  price: 4 placemats £20, 4 coasters £10
+  price: 4 placemats £25, 4 coasters £12.50
   size: Placemats 24.5cm x 23cm x 0.5cm, Coasters 12.5cm x 10.5cm x 0.5cm
   closure:
   img: new/placemat-coaster-multi.jpg
