@@ -1,5 +1,5 @@
 - id: cross-body-bag
-  allow-purchase: false
+  allow-purchase: true
   paypal-id: 27MSDEQBD5GGU
   options:
    - Standard: £56
@@ -90,11 +90,11 @@
     The zip is secure, so nothing works its way out.
 
 - id: wash-bag
-  allow-purchase: false
+  allow-purchase: true
   paypal-id: DB6KG3E4QSSJL
   options:
    - Standard: £32
-  colors: [Multicoloured, Pastel Multicoloured, Blue, Green, Red, Gold, Silver]
+  colors: [Multicoloured]
   name: Wash / Makeup Bag
   price: £32
   size: Bag 23cm x 14cm x 9cm
