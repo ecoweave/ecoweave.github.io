@@ -1,5 +1,5 @@
 - id: cross-body-bag
-  allow-purchase: false
+  allow-purchase: true
   paypal-id: 27MSDEQBD5GGU
   options:
    - Standard: £56
