@@ -16,6 +16,24 @@
   description: |
     Each one is woven from more than 200 crisp packets and takes around a fortnight to make. Shown here in the multicoloured style, which is the one most people go for. Other colours and themes are always possible, so tell me what you have in mind.
 
+- id: phone-bag
+  allow-purchase: false
+  paypal-id:
+  options:
+   - Standard: £45
+  colors: [Multicoloured]
+  name: Phone Bag
+  price: £45
+  size: Bag 10.5cm x 20.5cm x 3cm, Strap 116cm
+  closure: Magnetic
+  img: new/phone-bag-multi.jpg
+  category: [handbags]
+  strapline: Hands free, phone safe
+  preamble: |
+    A slim cross body bag made for your phone, with room for a card or two as well. A strong magnetic catch keeps it closed, and the long woven strap leaves your hands free.
+  description: |
+    There is plenty of room for a big phone. An iPhone Pro Max slips in easily. Shown here in the multicoloured style, and other colours and themes are always possible, so tell me what you have in mind.
+
 - id: medium-handbag
   allow-purchase: true
   paypal-id: SVDCH84KSYH2Y
